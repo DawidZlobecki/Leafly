@@ -1,0 +1,10 @@
+{
+  "home": "Srona Główna",
+  "bottomNavigation": {
+    "home": "Główna",
+    "scan": "Skanuj",
+    "profile": "Profil",
+    "notes": "Notatki",
+    "favourites": "Ulubione"
+  }
+}
